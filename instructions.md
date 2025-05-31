@@ -41,3 +41,5 @@ xx. **Försök allmänt ha sönder webben genom att använda den**
 10. **Skriv till varandra i chatten när ni har valt olika språk, och invänta tills ni får oläst meddelanden-mailet.**  
     Är det på rätt språk? (det språket ni har valt i languagepickern)  
     *(OBS: SKRIV INTE TILL NÅGON SOM INTE ÄR ADMIN MOD MM då riskerar dom att få ett olästa meddelanden mail utskick)*
+
+11. **Testa att glöma ditt lösenord hur ser mailet ut?**
